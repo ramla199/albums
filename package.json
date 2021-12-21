@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "albums",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramla199/albums.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramla199/albums/issues"
+  },
+  "homepage": "https://github.com/ramla199/albums#readme",
+  "description": ""
+}
